@@ -1,7 +1,7 @@
 # SPRINT 1:  SQL NIVELL BÀSIC
 
 ## Descripció
-Repassar les nocions bàsiques per a l'ús de base de dades relacionals. En aquest sprint, iniciaràs la teva experiència pràctica amb una base de dades que conté informació d'una empresa dedicada a la venda de productes en línia. En aquesta activitat, t'enfocaràs en dades relacionades amb les transaccions efectuades i la informació corporativa de les empreses que van participar.
+Per repassar les nocions bàsiques per a l'ús de base de dades relacionals, en aquest sprint, iniciaràs la teva experiència pràctica amb una base de dades que conté informació d'una empresa dedicada a la venda de productes en línia. En aquesta activitat, t'enfocaràs en dades relacionades amb les transaccions efectuades i la informació corporativa de les empreses que van participar.
 
 ### Nivell 1
 
