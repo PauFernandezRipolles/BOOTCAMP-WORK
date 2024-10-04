@@ -18,9 +18,10 @@ Realitza la següent consulta: Has d'obtenir el nom,
 email i país de cada companyia, ordena les dades en 
 funció del nom de les companyies.
 
-![image](https://github.com/user-attachments/assets/65403b1e-9f22-4925-a50f-3c6bbccc0228)
+![image](https://github.com/user-attachments/assets/cec5b84d-80c6-4d90-a586-23f4bb082c9a)
 
-Exercici 3
+
+- Exercici 3
 
 Des de la secció de màrqueting et sol·liciten que els passis un llistat 
 dels països que estan fent compres.
@@ -29,23 +30,29 @@ dels països que estan fent compres.
 
 
 - Exercici 4
+
 Des de màrqueting també volen saber des de quants països 
 es realitzen les compres.
 
-![image](https://github.com/user-attachments/assets/281dfb22-1e39-4c83-b57b-de1f88467c83)
+![image](https://github.com/user-attachments/assets/9e0b131c-7449-47ca-be10-07f4122d0cc5)
+
 
 Es realitzen compres desde 15 països
 
 - Exercici 5
+
 El teu cap identifica un error amb la companyia que té id 'b-2354'. Per tant, et sol·licita que li indiquis el país i nom de companyia d'aquest id.
 
-![image](https://github.com/user-attachments/assets/28b1326d-5bda-41f2-8942-9b8be8249c71)
+![image](https://github.com/user-attachments/assets/11b6ec5c-231e-43f1-90a8-a4b538a01a04)
+
 
 La companyía es Ac Libero Inc. del Regne Unit
+
 - Exercici 6
+
 A més, el teu cap et sol·licita que indiquis quina és la companyia amb major despesa mitjana.
 
-![image](https://github.com/user-attachments/assets/801e6505-dbf4-49a0-97e4-172717b6d785)
+![image](https://github.com/user-attachments/assets/36e11d85-08a3-4293-904e-81dca7b0f02e)
 
 
 ### Nivell 2
