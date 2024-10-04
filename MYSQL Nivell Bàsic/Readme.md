@@ -6,19 +6,22 @@ Repassar les nocions bàsiques per a l'ús de base de dades relacionals. En aque
 ### Nivell 1
 
 - Exercici 1
+
 A partir dels documents adjunts (estructura_dades i dades_introduir), importa les dues taules. Mostra les característiques principals de l'esquema creat i explica les diferents taules i variables que existeixen. Assegura't d'incloure un diagrama que il·lustri la relació entre les diferents taules i variables.
 
 ![image](https://github.com/user-attachments/assets/652b8a6e-46de-49b6-a855-3823fd175659)
 
 
 - Exercici 2
+
 Realitza la següent consulta: Has d'obtenir el nom,
 email i país de cada companyia, ordena les dades en 
 funció del nom de les companyies.
 
 ![image](https://github.com/user-attachments/assets/65403b1e-9f22-4925-a50f-3c6bbccc0228)
 
-- Exercici 3
+Exercici 3
+
 Des de la secció de màrqueting et sol·liciten que els passis un llistat 
 dels països que estan fent compres.
 
