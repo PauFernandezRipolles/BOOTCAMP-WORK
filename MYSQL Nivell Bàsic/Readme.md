@@ -8,19 +8,42 @@ Repassar les nocions bàsiques per a l'ús de base de dades relacionals. En aque
 - Exercici 1
 A partir dels documents adjunts (estructura_dades i dades_introduir), importa les dues taules. Mostra les característiques principals de l'esquema creat i explica les diferents taules i variables que existeixen. Assegura't d'incloure un diagrama que il·lustri la relació entre les diferents taules i variables.
 
-- Exercici 2
-Utilitzant JOIN realitzaràs les següents consultes:
+![image](https://github.com/user-attachments/assets/652b8a6e-46de-49b6-a855-3823fd175659)
 
-Llistat dels països que estan fent compres.
-Des de quants països es realitzen les compres.
-Identifica la companyia amb la mitjana més gran de vendes.
+
+- Exercici 2
+Realitza la següent consulta: Has d'obtenir el nom,
+email i país de cada companyia, ordena les dades en 
+funció del nom de les companyies.
+
+![image](https://github.com/user-attachments/assets/65403b1e-9f22-4925-a50f-3c6bbccc0228)
 
 - Exercici 3
-Utilitzant només subconsultes (sense utilitzar JOIN):
+Des de la secció de màrqueting et sol·liciten que els passis un llistat 
+dels països que estan fent compres.
 
-Mostra totes les transaccions realitzades per empreses d'Alemanya.
-Llista les empreses que han realitzat transaccions per un amount superior a la mitjana de totes les transaccions.
-Eliminaran del sistema les empreses que no tenen transaccions registrades, entrega el llistat d'aquestes empreses.
+![image](https://github.com/user-attachments/assets/0052cde4-45c8-49bc-83cd-2d4052b7924d)
+
+
+- Exercici 4
+Des de màrqueting també volen saber des de quants països 
+es realitzen les compres.
+
+![image](https://github.com/user-attachments/assets/281dfb22-1e39-4c83-b57b-de1f88467c83)
+
+Es realitzen compres desde 15 països
+
+- Exercici 5
+El teu cap identifica un error amb la companyia que té id 'b-2354'. Per tant, et sol·licita que li indiquis el país i nom de companyia d'aquest id.
+
+![image](https://github.com/user-attachments/assets/28b1326d-5bda-41f2-8942-9b8be8249c71)
+
+La companyía es Ac Libero Inc. del Regne Unit
+- Exercici 6
+A més, el teu cap et sol·licita que indiquis quina és la companyia amb major despesa mitjana.
+
+![image](https://github.com/user-attachments/assets/801e6505-dbf4-49a0-97e4-172717b6d785)
+
 
 ### Nivell 2
 
