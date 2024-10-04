@@ -5,14 +5,14 @@ Repassar les nocions bàsiques per a l'ús de base de dades relacionals. En aque
 
 ### Nivell 1
 
-- Exercici 1
+#### - Exercici 1
 
 A partir dels documents adjunts (estructura_dades i dades_introduir), importa les dues taules. Mostra les característiques principals de l'esquema creat i explica les diferents taules i variables que existeixen. Assegura't d'incloure un diagrama que il·lustri la relació entre les diferents taules i variables.
 
 ![image](https://github.com/user-attachments/assets/652b8a6e-46de-49b6-a855-3823fd175659)
 
 
-- Exercici 2
+#### - Exercici 2
 
 Realitza la següent consulta: Has d'obtenir el nom,
 email i país de cada companyia, ordena les dades en 
@@ -21,7 +21,7 @@ funció del nom de les companyies.
 ![image](https://github.com/user-attachments/assets/cec5b84d-80c6-4d90-a586-23f4bb082c9a)
 
 
-- Exercici 3
+#### - Exercici 3
 
 Des de la secció de màrqueting et sol·liciten que els passis un llistat 
 dels països que estan fent compres.
@@ -29,7 +29,7 @@ dels països que estan fent compres.
 ![image](https://github.com/user-attachments/assets/0052cde4-45c8-49bc-83cd-2d4052b7924d)
 
 
-- Exercici 4
+#### - Exercici 4
 
 Des de màrqueting també volen saber des de quants països 
 es realitzen les compres.
@@ -39,7 +39,7 @@ es realitzen les compres.
 
 Es realitzen compres desde 15 països
 
-- Exercici 5
+#### - Exercici 5
 
 El teu cap identifica un error amb la companyia que té id 'b-2354'. Per tant, et sol·licita que li indiquis el país i nom de companyia d'aquest id.
 
@@ -48,7 +48,7 @@ El teu cap identifica un error amb la companyia que té id 'b-2354'. Per tant, e
 
 La companyía es Ac Libero Inc. del Regne Unit
 
-- Exercici 6
+#### - Exercici 6
 
 A més, el teu cap et sol·licita que indiquis quina és la companyia amb major despesa mitjana.
 
