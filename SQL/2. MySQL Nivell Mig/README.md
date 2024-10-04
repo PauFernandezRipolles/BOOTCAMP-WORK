@@ -26,6 +26,14 @@ El departament de comptabilitat va perdre la informació de les transaccions rea
 Els ajudaria adjuntant tota la informació que tenim de les transaccions i empreses que comencen per 'C', ordenades per data.
 
 
+#### - EXERCICI 4
+Per error van eliminar del sistema les empreses que no tenen transaccions registrades, lliura el llistat d'aquestes empreses.
+
+![image](https://github.com/user-attachments/assets/701ea499-aa3d-45d4-91f5-53a1fe9dd748)
+
+
+Surten les mateixes empreses a la taula Company que a la Transaction, les 100 empreses que hi ha tenentenen alguna Transaction
+
 
 ### NIVELL 2
 
