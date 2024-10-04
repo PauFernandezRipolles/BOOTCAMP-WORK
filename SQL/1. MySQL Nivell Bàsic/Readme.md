@@ -57,26 +57,40 @@ A més, el teu cap et sol·licita que indiquis quina és la companyia amb major 
 
 ### Nivell 2
 
-Exercici 1
-Identifica els cinc dies que es va generar la quantitat més gran d'ingressos a l'empresa per vendes. Mostra la data de cada transacció juntament amb el total de les vendes.
+#### - Exercici 1
+El teu cap està redactant un informe de tancament de l'any i et sol·licita que li enviïs informació rellevant per al document. Per a això et sol·licita verificar si en la base de dades existeixen companyies amb identificadors id duplicats.
+
+![image](https://github.com/user-attachments/assets/e25fe7ba-f387-48b3-8028-46d2175d03e4)
 
 
-Exercici 2
-Quina és la mitjana de vendes per país? Presenta els resultats ordenats de major a menor mitjà.
+#### - Exercici 2
+Per al mateix informe et demana els 5 dies en que es van fer les compres de major valor i la quantitat total d'aquest dies.
+
+![image](https://github.com/user-attachments/assets/7e8b361d-17b1-46ec-8041-6d8fb4f24b49)
 
 
-Exercici 3
-En la teva empresa, es planteja un nou projecte per a llançar algunes campanyes publicitàries per a fer competència a la companyia "Non Institute". Per a això, et demanen la llista de totes les transaccions realitzades per empreses que estan situades en el mateix país que aquesta companyia.
+#### - Exercici 3
+Ara et demana el mateix però amb els 5 dies en que es van fer les compres de menor valor.
 
-Mostra el llistat aplicant JOIN i subconsultes.
-Mostra el llistat aplicant solament subconsultes.
+![image](https://github.com/user-attachments/assets/db0cf710-7e65-4c34-a755-cd75aa60512b)
+
+#### - Exercici 4
+Quina és la mitjana de despesa per país? Presenta els resultats ordenats de major a menor mitjana.
+
+![image](https://github.com/user-attachments/assets/8ef6adf0-00bf-4a4d-a344-dd6faea55701)
+
 
 ### Nivell 3
 
-Exercici 1
-Presenta el nom, telèfon, país, data i amount, d'aquelles empreses que van realitzar transaccions amb un valor comprès entre 100 i 200 euros i en alguna d'aquestes dates: 29 d'abril del 2021, 20 de juliol del 2021 i 13 de març del 2022. Ordena els resultats de major a menor quantitat.
+#### - Exercici 1
+Presenta el nom, telèfon i país de les companyies, juntament amb la quantitat total gastada, d'aquelles que van realitzar transaccions amb una despesa compresa entre 100 i 200 euros. Ordena els resultats de major a menor quantitat gastada.
+
+![image](https://github.com/user-attachments/assets/0f0b24cb-171a-48a3-a278-19112f06bc1f)
 
 
-Exercici 2
-Necessitem optimitzar l'assignació dels recursos i dependrà de la capacitat operativa que es requereixi, per la qual cosa et demanen la informació sobre la quantitat de transaccions que realitzen les empreses, però el departament de recursos humans és exigent i vol un llistat de les empreses on especifiquis si tenen més de 4 transaccions o menys.
+#### - Exercici 2
+Indica el nom de les companyies que van fer compres el 16 de març del 2022, 28 de febrer del 2022 i 13 de febrer del 2022.
+
+![image](https://github.com/user-attachments/assets/71e8f007-1924-4690-b36e-4138a9070607)
+
 
