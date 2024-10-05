@@ -38,6 +38,9 @@ Surten les mateixes empreses a la taula Company que a la Transaction, les 100 em
 ### NIVELL 2
 
 #### - EXERCICI 1
+En la teva empresa, es planteja un nou projecte per a llançar algunes campanyes publicitàries per a fer competència a la companyia Non Institute. Per a això, 
+et demanen la llista de totes les transaccions realitzades per empreses que estan situades en el mateix país que aquesta companyia.
+
 
 
 #### - EXERCICI 1
