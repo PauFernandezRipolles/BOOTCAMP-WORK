@@ -45,6 +45,15 @@ demana ara no es problema, mes endavant soluciono el problema amb una taula inte
 ![image](https://github.com/user-attachments/assets/273f8ed5-533c-450c-ab71-a2957490e762)
 
 
+Finalment el model queda així:
+
+
+![image](https://github.com/user-attachments/assets/bc06ca37-fb19-4692-a9d2-4e4dd49d7da9)
+
+
+![image](https://github.com/user-attachments/assets/921df818-7636-4b25-8856-8125d0900ba6)
+
+
 
 ### - EXERCICI 1
 Realitza una subconsulta que mostri tots els usuaris amb més de 30 transaccions utilitzant almenys 2 taules.
@@ -57,5 +66,31 @@ Mostra la mitjana de la suma de transaccions per IBAN de les targetes de crèdit
 
 
 ![image](https://github.com/user-attachments/assets/f9b4d9e6-28db-47dc-b7ce-eb485e26fb33)
+
+
+
+## NIVELL 2
+Crea una nova taula que reflecteixi l'estat de les targetes de crèdit basat en si les últimes tres transaccions van ser declinades i genera la següent consulta:
+
+### - EXERCICI 1
+Quantes tarjetes van ser declinades a la seva útlima operació? Quantes targetes estan actives?
+
+Primer creo la nova taula i modifico la columan timestamp per facilitar la detecció de les 3 útlimes transaccions:
+
+![image](https://github.com/user-attachments/assets/d1257ec2-492f-482b-a64b-73cc2ee77e62)
+
+Després hi carrego les dades utilitzant subquerys:
+
+![image](https://github.com/user-attachments/assets/101b85e0-5e69-40e6-821c-c2eca04a4cff)
+
+
+![image](https://github.com/user-attachments/assets/dfee6f97-10df-4cfc-8f08-c3ec3947e2d8)
+
+Responc a la pregunta:
+
+![image](https://github.com/user-attachments/assets/2ad7d69f-0454-4ba7-a488-d51d75cc038e)
+
+
+
 
 
