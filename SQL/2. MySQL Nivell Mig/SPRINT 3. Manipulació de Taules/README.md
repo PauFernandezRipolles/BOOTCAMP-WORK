@@ -48,6 +48,7 @@ Recorda mostrar el canvi realitzat.
 
 
 
+
 ## NIVELL 2
 
 ### - EXERCICI 1
@@ -71,6 +72,7 @@ Presenta la vista creada,ordenant les dades de major a menor mitjana de compra.
 Filtra la vista VistaMarketing per a mostrar només les companyies que tenen el seu país de residència en "Germany".
 
 ![image](https://github.com/user-attachments/assets/a9780d99-5c3d-495c-9068-edd59265f877)
+
 
 
 
