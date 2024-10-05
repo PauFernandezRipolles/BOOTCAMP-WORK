@@ -47,3 +47,16 @@ demana ara no es problema, mes endavant soluciono el problema amb una taula inte
 
 
 ### - EXERCICI 1
+Realitza una subconsulta que mostri tots els usuaris amb més de 30 transaccions utilitzant almenys 2 taules.
+
+![image](https://github.com/user-attachments/assets/ba60e148-f272-4c41-b096-0d704a353bc3)
+
+
+### - EXERCICI 2
+![image](https://github.com/user-attachments/assets/727972bd-41bf-40ca-b147-25c9e8bad8f4)
+
+
+
+## NIVELL 1
+
+### - EXERCICI 1
