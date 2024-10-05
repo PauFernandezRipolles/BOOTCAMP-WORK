@@ -74,3 +74,20 @@ Filtra la vista VistaMarketing per a mostrar només les companyies que tenen el 
 
 
 
+## NIVELL 3
+
+### - EXERCICI 1
+La setmana vinent tindràs una nova reunió amb els gerents de màrqueting. Un company del teu equip va realitzar modificacions en la base de dades, però no recorda com les va realitzar. Et demana que l'ajudis a deixar els comandos executats per a obtenir el següent diagrama:
+
+![image](https://github.com/user-attachments/assets/8ffedefa-a604-4dba-938e-680d704a0356)
+
+
+
+![image](https://github.com/user-attachments/assets/1d7e2e34-ee15-4d60-9ed4-1cef45cb7619)
+
+...
+
+![image](https://github.com/user-attachments/assets/6b85fdd5-52f5-4115-90f0-4b7c93c33c09)
+
+
+
