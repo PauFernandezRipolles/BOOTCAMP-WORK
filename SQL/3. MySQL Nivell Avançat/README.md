@@ -73,7 +73,7 @@ Mostra la mitjana de la suma de transaccions per IBAN de les targetes de crèdit
 Crea una nova taula que reflecteixi l'estat de les targetes de crèdit basat en si les últimes tres transaccions van ser declinades i genera la següent consulta:
 
 ### - EXERCICI 1
-Quantes tarjetes van ser declinades a la seva útlima operació? Quantes targetes estan actives?
+Quantes targetes estan actives?
 
 Primer creo la nova taula i modifico la columan timestamp per facilitar la detecció de les 3 útlimes transaccions:
 
@@ -84,11 +84,22 @@ Després hi carrego les dades utilitzant subquerys:
 ![image](https://github.com/user-attachments/assets/101b85e0-5e69-40e6-821c-c2eca04a4cff)
 
 
-![image](https://github.com/user-attachments/assets/dfee6f97-10df-4cfc-8f08-c3ec3947e2d8)
+La taula queda així:
 
-Responc a la pregunta:
+![image](https://github.com/user-attachments/assets/c84bc88b-e753-4cbc-845d-81f6cf97894d)
 
-![image](https://github.com/user-attachments/assets/2ad7d69f-0454-4ba7-a488-d51d75cc038e)
+
+Per respondre a la pregunta de, cuantes estan inactives, he de tenir en compte que, per tal que estiguin inactives, han de tenir les 3 últimes transaccions declinades.
+Creo una columna que indiqui si ho estan o no:
+
+
+![image](https://github.com/user-attachments/assets/259066b9-7864-4df2-8ec7-e80f8da4315e)
+
+
+
+
+
+
 
 
 
