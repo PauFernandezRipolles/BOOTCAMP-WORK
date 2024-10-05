@@ -21,6 +21,28 @@ Després creo users_ca i hi carrego les dades amb LOAD DATA:
 ![image](https://github.com/user-attachments/assets/b878c807-70b7-4144-95a4-dc7d388a8689)
 
 
+Repeteixo la operació amb les altres taules de users.
+
+Decideixo unir les taules users creant una amb tots els usuaris i eliminant les anteriors, ja que no te cap avantatge tenir-les separades.
+
+![image](https://github.com/user-attachments/assets/be30273d-7654-411c-9baf-c34a95b37a90)
+
+
+Creo les PK's per construir el model:
+
+![image](https://github.com/user-attachments/assets/c6344da3-9676-4cce-adb7-a77170ba337d)
+
+y asigno les FK's:
+
+![image](https://github.com/user-attachments/assets/3a9d771f-51aa-4253-a169-b455bac47920)
+
+
+M'adono que hi ha un problema amb la columna product_ids de transactions. Estan els id's dels diferents productes de la mateixa transacció en una sola columna separats per comes. Decideixo que la opció més ràpida es exportar la taula a excel i, desde allà, convertir text a columna i crear una columna per a cada product_id d'una mateixa transacció. Finalment torno a importar l'arxiu a la base de dades.
+Aquest cop ho importo amb Import Wizard i després he de canviar els tipus de dada i crear la FK. Només en puc referir una columna product_id com a FK. Pero pel que es 
+demana ara no es problema, mes endavant soluciono el problema amb una taula intermitja.
+
+
+![image](https://github.com/user-attachments/assets/273f8ed5-533c-450c-ab71-a2957490e762)
 
 
 
