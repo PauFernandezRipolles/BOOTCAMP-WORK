@@ -1,9 +1,18 @@
-# SPRINT 3 : MANIPULACIÓ DE TAULES
+# SPRINT 3 : CREACIÓ I MANIPULACIÓ DE TAULES
 En aquest sprint, es simula una situació empresarial en la qual has de realitzar diverses manipulacions en les taules de la base de dades. 
 Al seu torn, hauràs de treballar amb índexs i vistes. En aquesta activitat, continuaràs treballant amb la base de dades que conté informació d'una empresa dedicada 
 a la venda de productes en línia. En aquesta tasca, començaràs a treballar amb informació relacionada amb targetes de crèdit.
 
 ## NIVELL 1
+La teva tasca és dissenyar i crear una taula anomenada "credit_card" que emmagatzemi detalls crucials sobre les targetes de crèdit. La nova taula ha de ser capaç d'identificar de manera única cada targeta i establir una relació adequada amb les altres dues taules ("transaction" i "company"). Després de crear la taula serà necessari que ingressis la informació del document denominat "dades_introduir_credit". Recorda mostrar el diagrama i realitzar una breu descripció d'aquest.
+
+![image](https://github.com/user-attachments/assets/f99b3a22-bc8a-44da-bf50-803483bd5607)
+...
+![image](https://github.com/user-attachments/assets/856b1613-0839-4d2c-b11d-900a74ab653e)
+
+D'aquesta manera la taula queda vinculada amb la taula de fets Transactions com una taula de dimensió i a través d'aquesta a l'altra taula de dimensió company. 
+Així formem un model d'estrella.
+
 
 ### - EXERCICI 1
 
