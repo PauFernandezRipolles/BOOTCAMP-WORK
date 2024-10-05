@@ -90,4 +90,15 @@ La setmana vinent tindràs una nova reunió amb els gerents de màrqueting. Un c
 ![image](https://github.com/user-attachments/assets/6b85fdd5-52f5-4115-90f0-4b7c93c33c09)
 
 
+### - EXERCICI 2
+L'empresa també et sol·licita crear una vista anomenada "InformeTecnico" que contingui la següent informació:
+ID de la transacció
+Nom de l'usuari/ària
+Cognom de l'usuari/ària
+IBAN de la targeta de crèdit usada.
+Nom de la companyia de la transacció realitzada.
+Assegura't d'incloure informació rellevant de totes dues taules i utilitza àlies per a canviar de nom columnes segons sigui necessari.
+Mostra els resultats de la vista, ordena els resultats de manera descendent en funció de la variable ID de transaction.
+
+![image](https://github.com/user-attachments/assets/72c76564-0ad1-47dd-9fa6-896a67a0caac)
 
