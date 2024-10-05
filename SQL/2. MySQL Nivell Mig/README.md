@@ -77,6 +77,7 @@ I un altre amb les que tenen menys de 4:
 ![image](https://github.com/user-attachments/assets/d3361e67-2dee-4779-a6fa-20882dc52da0)
 
 
-Una altra a proximació pot ser crear una llistra amb una columan on s'indiqui si tenen mes de 4 transaccions:
+
+Una altra a proximació pot ser crear una llista amb una columan on s'indiqui si tenen mes de 4 transaccions:
 
 ![image](https://github.com/user-attachments/assets/4562467a-34e7-4b59-bdc4-4fe10623653f)
