@@ -78,7 +78,7 @@ I un altre amb les que tenen menys de 4:
 
 
 
-Una altra a proximació pot ser crear una llista amb una columan on s'indiqui si tenen mes de 4 transaccions:
+Una altra a proximació pot ser crear una llista amb una columna on s'indiqui si tenen mes de 4 transaccions:
 
 ![image](https://github.com/user-attachments/assets/2ad24da5-9a21-490e-9669-9004bc9fa339)
 
