@@ -27,8 +27,25 @@ identifica un compte bancari a nivell internacional (identificat com "IBAN"): R3
 
 
 ### - EXERCICI 3
+En la taula "transaction" ingressa un nou usuari amb la següent informació:
+Id	108B1D1D-5B23-A76C-55EF-C568E49A99DD
+credit_card_id	CcU-9999
+company_id	b-9999
+user_id	9999
+lat	829.999
+longitude	-117.999
+amount	111.11
+declined	0	
+
+![image](https://github.com/user-attachments/assets/86d4ac7a-0146-4c54-8f19-6e0850da48e9)
+
 
 ### - EXERCICI 4
+Des de recursos humans et sol·liciten eliminar la columna "pan" de la taula credit_*card. 
+Recorda mostrar el canvi realitzat.
+
+![image](https://github.com/user-attachments/assets/1673b39e-96c4-4d29-8109-422f208b1dca)
+
 
 
 ## NIVELL 2
