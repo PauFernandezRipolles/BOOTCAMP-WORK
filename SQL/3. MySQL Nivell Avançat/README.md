@@ -97,6 +97,35 @@ Creo una columna que indiqui si ho estan o no:
 
 
 
+## NIVELL 2
+Crea una taula amb la qual puguem unir les dades del nou arxiu products.csv amb la base de dades creada, tenint en compte que des de transaction tens product_ids. Genera la següent consulta:
+
+
+### - EXERCICI 1
+Necessitem conèixer el nombre de vegades que s'ha venut cada producte.
+
+Després d'haver creat la taula en el Nivell 1 modificant-la en Excel, ara veig que, per poder comptar les vendes de cada producte, no és suficient. En lloc de tornar a crear la taula transactions de nou, creo una taula intermèdia entre transactions i products que s'anomenarà compres i tindrà un id propi com a PK, transaction_id com a FK i product_id per a cada producte comprat. Cada fila tindrà un sol producte i es repetiria transaction_id tantes vegades com productes en la mateixa transacció.
+Per fer-ho, utilitzo PowerQuery, ja que és la manera més ràpida i clara. Exporto la taula des de PowerBI i la importo utilitzant Import Wizard i creo les PK i FK's.
+
+![image](https://github.com/user-attachments/assets/3038a93d-ce1f-4535-aaa7-f26aaa07779f)
+
+
+Responc a la pregunta:
+
+![image](https://github.com/user-attachments/assets/b3312c22-c135-4fce-88f3-e630d0964369)
+
+
+Finalment retoco les FK's per donar coherència al model final.
+
+
+![image](https://github.com/user-attachments/assets/8e7f6fcf-35ee-494d-b5fc-a0003912a3bd)
+
+
+
+Queda així:
+
+
+![image](https://github.com/user-attachments/assets/db9afaf3-af16-4c13-a050-808aa6a2412c)
 
 
 
