@@ -53,10 +53,9 @@ Realitza una subconsulta que mostri tots els usuaris amb més de 30 transaccions
 
 
 ### - EXERCICI 2
-![image](https://github.com/user-attachments/assets/727972bd-41bf-40ca-b147-25c9e8bad8f4)
+Mostra la mitjana de la suma de transaccions per IBAN de les targetes de crèdit en la companyia Donec Ltd. utilitzant almenys 2 taules.
 
 
+![image](https://github.com/user-attachments/assets/f9b4d9e6-28db-47dc-b7ce-eb485e26fb33)
 
-## NIVELL 1
 
-### - EXERCICI 1
