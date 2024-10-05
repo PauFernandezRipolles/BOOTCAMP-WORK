@@ -1,4 +1,4 @@
-# SPRINTS 2 i 3: SUBQUERYS
+# SPRINTS 2: SUBQUERYS
 
 ## DESCRIPCIÓ:
 Seguint amb la mateixa base de dades, hauràs de continuar responen demandes d'altres departaments sense utilitzar Joins i fent ús de Subquerys.
