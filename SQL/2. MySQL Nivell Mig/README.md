@@ -41,9 +41,42 @@ Surten les mateixes empreses a la taula Company que a la Transaction, les 100 em
 En la teva empresa, es planteja un nou projecte per a llançar algunes campanyes publicitàries per a fer competència a la companyia Non Institute. Per a això, 
 et demanen la llista de totes les transaccions realitzades per empreses que estan situades en el mateix país que aquesta companyia.
 
+![image](https://github.com/user-attachments/assets/f574c311-d5c3-4fa1-bcc2-7c6c9ffbb1d1)
 
+Els hi facilito tota la informació de les transacions de empreses del mateix pais
 
-#### - EXERCICI 1
+#### - EXERCICI 2
+El departament de comptabilitat necessita que trobis l'empresa que ha realitzat la transacció de major suma en la base de dades.
+
+![image](https://github.com/user-attachments/assets/23fc53ef-1640-4be8-a138-6885c754f7f7)
+
 
 
 ### NIVELL 3
+
+
+#### - EXERCICI 1
+S'estan establint els objectius de l'empresa per al següent trimestre, per la qual cosa necessiten una base sòlida per a avaluar el rendiment i mesurar l'èxit 
+en els diferents mercats. Per a això, necessiten el llistat dels països la mitjana de transaccions dels quals sigui superior a la mitjana general.
+
+
+![image](https://github.com/user-attachments/assets/24c28671-11b1-4c1f-9422-db884308f145)
+
+Aquest serien els països amb transactions per sobre de la mitjana comptant també els "declined"
+
+#### - EXERCICI 2
+Necessitem optimitzar l'assignació dels recursos i dependrà de la capacitat operativa que es requereixi, per la qual cosa et demanen la informació sobre la quantitat de transaccions que realitzen les empreses, però el departament de recursos humans és exigent i vol un llistat de les empreses on especifiquis si tenen més de 4 transaccions o menys.
+
+Els hi entregaria 2 llistats, un de les que tenen 4 o més transaccions:
+
+![image](https://github.com/user-attachments/assets/3860209e-7033-4be0-bdc7-90251ede7a7b)
+
+
+I un altre amb les que tenen menys de 4:
+
+![image](https://github.com/user-attachments/assets/d3361e67-2dee-4779-a6fa-20882dc52da0)
+
+
+Una altra a proximació pot ser crear una llistra amb una columan on s'indiqui si tenen mes de 4 transaccions:
+
+![image](https://github.com/user-attachments/assets/4562467a-34e7-4b59-bdc4-4fe10623653f)
